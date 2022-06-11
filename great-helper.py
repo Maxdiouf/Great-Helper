@@ -328,4 +328,4 @@ async def play(ctx):
     
 
 
-client.run("OTc4MjMwNDQwOTUzNTQwNjgw.GD68P6.0Zc5qeWzvERtptXNNDwag0JCfywHJ6ePUemido")
+client.run("token")
