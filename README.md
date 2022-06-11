@@ -20,5 +20,5 @@ Membre du groupe et répartition des taches : Répartition des taches (chaqu'un 
 <br>
 <a href="https://www.linkedin.com/in/diouf-maguette-2735ba204/">MAGUETTE DIOUF</a> <br>
 <a href="https://www.linkedin.com/in/gajan-baskaran-/">GAJAN BASKARAN </a><br>
-Emir Hakiri<br>
+<a href="https://www.linkedin.com/in/emir-hakiri/">EMIR HAKIRI</a><br>
 carim Belazzoug<br>
