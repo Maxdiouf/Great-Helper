@@ -17,4 +17,8 @@ Une fois le mode discussion activé avec 'g-mec!', et en supplément des command
 coté technique : La discussion et la chronologie de la discussion est géré avec un 'Arbre' et ses 'Nodes'. L'historique de discussion est géré avec les 'Classes' et les 'Listes', une fois la discussion terminer la 'Valeur'(en forme de liste) de la 'Clefs'(qui est le username) est vidée. La fonction de contribution '$add' est géré par un 'Dictionnaire'.
 <br><br>
 Membre du groupe et répartition des taches : Répartition des taches (chaqu'un c'est chargé de la partie sur laquelle il est plus à l'aise):
-
+<br>
+Maguette Diouf<br>
+Gajan Baskaran<br>
+Emir Hakiri<br>
+carim Belazzoug<br>
