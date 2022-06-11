@@ -18,7 +18,7 @@ coté technique : La discussion et la chronologie de la discussion est géré av
 <br><br>
 Membre du groupe et répartition des taches : Répartition des taches (chaqu'un c'est chargé de la partie sur laquelle il est plus à l'aise):
 <br>
-Maguette Diouf<br>
+<a href="https://www.linkedin.com/in/diouf-maguette-2735ba204/">MAGUETTE DIOUF</a> <br>
 Gajan Baskaran<br>
 Emir Hakiri<br>
 carim Belazzoug<br>
