@@ -16,9 +16,9 @@ Une fois le mode discussion activé avec 'great helper!', et en supplément des 
 <br><br>
 coté technique : La discussion et la chronologie de la discussion est géré avec un 'Arbre' et ses 'Nodes'. L'historique de discussion est géré avec les 'Classes' et les 'Listes', une fois la discussion terminer la 'Valeur'(en forme de liste) de la 'Clefs'(qui est le username) est vidée. La fonction de contribution '$add' est géré par un 'Dictionnaire'.
 <br><br>
-Membre du groupe et répartition des taches : Répartition des taches (chaqu'un c'est chargé de la partie sur laquelle il est plus à l'aise):
-<br>
+Membre du groupe et répartition des taches : Répartition des taches (chaqu'un c'est chargé de la partie sur laquelle il est plus à l'aise): <br> 
+<br> <br> 
 <a href="https://www.linkedin.com/in/diouf-maguette-2735ba204/">MAGUETTE DIOUF</a> Une grande partie dont les Commandes $memes,  $clear,  $reset, $images <br>
 <a href="https://www.linkedin.com/in/gajan-baskaran-/">GAJAN BASKARAN </a> Commandes $citation, $memes, $modo. Ajout de question/réponse et liens de redirection.<br>
 <a href="https://www.linkedin.com/in/emir-hakiri/">EMIR HAKIRI</a> Partie Discussion avec le bot, Commandes $info, $dates, $heure, $add, $memes,<br>
-carim Belazzoug<br> Commande $play
+carim Belazzoug Commande $play <br> 
